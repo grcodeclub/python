@@ -1,4 +1,5 @@
-# Ο κώδικας κατεβάζει ένα αρχείο από την URL https://www.grcodeclub.gr/somefile.zip και το αποθηκεύει στον τοπικό υπολογιστή με το όνομα somefile.zip.
+# Ο κώδικας κατεβάζει ένα αρχείο από την URL https://www.grcodeclub.gr/somefile.zip 
+# και το αποθηκεύει στον τοπικό υπολογιστή με το όνομα somefile.zip.
 
 import requests  # Εισάγουμε τη βιβλιοθήκη requests για να κάνουμε HTTP αιτήματα
 
